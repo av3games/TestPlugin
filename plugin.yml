@@ -2,7 +2,7 @@ name: TestPlugin
 version: 0.1
 api: [3.0.0]
 author: av3games
-main: test\Main
+main: src\Main
 
 commands:
  test:
